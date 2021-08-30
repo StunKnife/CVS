@@ -38,7 +38,8 @@
 - 🔍 Análise de correlação</strong>
 - 💬 Análise de sobrevivência</strong>
 - ⚡ Modelos lineares generalizados
-- 🌱 Análise de clusterAnálise fatorial</strong>
+- 🌱 Análise de cluster</strong>
+- 🔍 Análise fatorial</strong>
 
 <br><br>
 
