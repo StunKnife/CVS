@@ -60,5 +60,6 @@
 ![CV2](https://user-images.githubusercontent.com/87357756/131290993-8960b306-aaa9-4cfa-bcd3-0e5f309e5398.jpg)
 ![CV3](https://user-images.githubusercontent.com/87357756/131290997-b7fe95fd-d0bd-4671-9c4e-eaefe5472692.jpg)
 
+<hr>
 # Currículo para download
-[CV.pdf](https://github.com/StunKnife/CVS/files/7074734/CV.pdf)<br><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+[CV.pdf](https://github.com/StunKnife/CVS/files/7074734/CV.pdf)
