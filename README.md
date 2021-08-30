@@ -1,3 +1,2 @@
 # CV
-<img src="CVS/CV/CV.pdf" width=100% />
-
+https://github.com/StunKnife/cvs/cv/raw/master/cv.pdf
