@@ -26,10 +26,6 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=StunKnife.StunKnife)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
 <br><br>
 
 
