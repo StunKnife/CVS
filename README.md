@@ -21,6 +21,34 @@
 
 
 
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Python | Java | C++ | C | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+
+<!--
+
+- 🛢 &nbsp; MySQL | MongoDB
+
+- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+
+<hr>
+
+
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
