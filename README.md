@@ -3,6 +3,9 @@
 <p><em>Doutor em Estatística na <a href="https://www.ufpe.br/">Universidade Federal de Pernambuco</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a href="https://www.instagram.com/azevedo_assessoria_estatistica/"> azevedo_assessoria_estatistica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/StunKnife)
+
+
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 
@@ -27,7 +30,6 @@
 
 
 <hr>
-
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
