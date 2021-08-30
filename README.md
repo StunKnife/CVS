@@ -26,6 +26,11 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=StunKnife.StunKnife)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
+
+<h3> 🤝🏻 Métodos e técnicas estatísticas</h3>
+
+
+
 <br><br>
 
 
@@ -34,7 +39,6 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-<h3> 🤝🏻 Conecte Comigo</h3>
 
 
 
