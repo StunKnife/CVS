@@ -8,7 +8,7 @@
 
 
 
-<h3> 🤝🏻 Conecte Comigo<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h3>
+<h3> 🤝🏻 Conecte Comigo</h3>
 
 <br>
 <p align="center">
@@ -41,3 +41,4 @@
 ![CV3](https://user-images.githubusercontent.com/87357756/131290997-b7fe95fd-d0bd-4671-9c4e-eaefe5472692.jpg)
 
 Currículo para download<br>[CV.pdf](https://github.com/StunKnife/CVS/files/7074734/CV.pdf)
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
