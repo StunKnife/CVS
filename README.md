@@ -7,7 +7,7 @@
 <br>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saul-de-azev%C3%AAdo-souza-77b45020b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Stun-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/saul-de-azev%C3%AAdo-souza-77b45020b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saul de A. Souza-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
 
