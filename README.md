@@ -6,10 +6,10 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/StunKnife)
 
 
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 
-<h3> 🤝🏻 Conecte Comigo </h3>
+<h3> 🤝🏻 Conecte Comigo </h3><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 <br>
 <p align="center">
 
