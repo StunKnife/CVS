@@ -10,6 +10,10 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)]
 
+  
+<a href="https://github.com/StunKnife"><img alt="Github" src="https://img.shields.io/badge/-Github-Saul de A. Souza-blue?style=flat-square&logo=Github"></a> 
+  
+  
 <a href="https://www.linkedin.com/in/saul-de-azev%C3%AAdo-souza-77b45020b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saul de A. Souza-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="https://www.instagram.com/azevedo_assessoria_estatistica/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Azevêdo Assessoria Estatística-black?style=flat-square&logo=instagram"></a>
