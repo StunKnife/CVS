@@ -3,7 +3,7 @@
 <p><em>Doutor em Estatística na <a href="https://www.ufpe.br/">Universidade Federal de Pernambuco</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Mestre em Modelos de Decisão e Saúde na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></br>Estatístico formado pela <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></br>Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a href="https://www.instagram.com/azevedo_assessoria_estatistica/"> azevedo_assessoria_estatistica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-
+https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white
 
 <h3> 🤝🏻 Conecte Comigo</h3>
 
@@ -27,17 +27,17 @@
 
 <h3> 🤝🏻 Métodos e técnicas estatísticas</h3>
 
-- 🔭 Estatística descritiva</strong>
-- 🌱 Análise de Regressão</strong>
-- 🔍 Testes estatísticos: paramétricos e não paramétricos </strong>
-- 💬 Redes neurais </strong>
+- 🔭 Estatística descritiva
+- 🌱 Análise de Regressão
+- 🔍 Testes estatísticos: paramétricos e não paramétricos
+- 💬 Redes neurais 
 - ⚡ Árvore de decisão
-- 🌱 Análise gráfica</strong>
-- 🔍 Análise de correlação</strong>
-- 💬 Análise de sobrevivência</strong>
+- 🌱 Análise gráfica
+- 🔍 Análise de correlação
+- 💬 Análise de sobrevivência
 - ⚡ Modelos lineares generalizados
-- 🌱 Análise de cluster</strong>
-- 🔍 Análise fatorial</strong>
+- 🌱 Análise de cluster
+- 🔍 Análise fatorial
 
 
 <h3> 🤝🏻 Programas e ferramentas</h3>
