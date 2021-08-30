@@ -62,4 +62,5 @@
 
 <hr>
 # Currículo para download<br>
-[CV.pdf](https://github.com/StunKnife/CVS/files/7074734/CV.pdf)
+
+[CV.pdf](https://github.com/StunKnife/CVS/files/7074734/CV.pdf)<br>
