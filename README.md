@@ -1,4 +1,9 @@
-# CV
+<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+![logo3](https://user-images.githubusercontent.com/87357756/131291227-91029065-96d4-44cd-8053-f918d6ce5e7d.png)
 ![CV1](https://user-images.githubusercontent.com/87357756/131290989-780417d1-dc92-4048-afcc-1f6188165fdf.jpg)
 ![CV2](https://user-images.githubusercontent.com/87357756/131290993-8960b306-aaa9-4cfa-bcd3-0e5f309e5398.jpg)
 ![CV3](https://user-images.githubusercontent.com/87357756/131290997-b7fe95fd-d0bd-4671-9c4e-eaefe5472692.jpg)
