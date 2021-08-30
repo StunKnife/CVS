@@ -4,7 +4,6 @@
  Mestre em Modelos de Decisão e Saúde na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="24px"> <p>
 Estatístico formado pela <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30px">  <p>
 Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a href="https://www.instagram.com/azevedo_assessoria_estatistica/"> azevedo_assessoria_estatistica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 <h3> 🤝🏻 Conecte Comigo</h3>
 
