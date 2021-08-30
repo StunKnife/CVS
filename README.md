@@ -9,9 +9,9 @@
 
 <a href="https://www.linkedin.com/in/saul-de-azev%C3%AAdo-souza-77b45020b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saul de A. Souza-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/azevedo_assessoria_estatistica/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Assessoria Estatística-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/azevedo_assessoria_estatistica/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Azevêdo Assessoria Estatística-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:shivammalpani111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shivammalpani111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="azevedo_assessoria_estatistica@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-azevedo_assessoria_estatistica@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
