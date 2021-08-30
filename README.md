@@ -1,4 +1,3 @@
 # Título
-rmarkdown::render("cv.rmd",
-                  params = list(pdf_mode = FALSE),
-                  output_file = "cv.html")
+![mariecurie](https://user-images.githubusercontent.com/87357756/131288876-f65e4ea6-cb1a-4a44-95db-acf7bc59d0ef.jpg)
+
