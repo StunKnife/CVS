@@ -1,3 +1,3 @@
-# Título
-![mariecurie](https://user-images.githubusercontent.com/87357756/131288876-f65e4ea6-cb1a-4a44-95db-acf7bc59d0ef.jpg)
-
+#CV
+pagedown::chrome_print(input = tmp_html_cv_loc,
+                       output = "cv.pdf")
