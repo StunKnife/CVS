@@ -3,7 +3,6 @@
 <p><em>Doutor em Estatística na <a href="https://www.ufpe.br/">Universidade Federal de Pernambuco</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a href="https://www.instagram.com/azevedo_assessoria_estatistica/"> azevedo_assessoria_estatistica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/StunKnife)
 
 
 
@@ -12,6 +11,8 @@
 
 <br>
 <p align="center">
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/StunKnife)
 
 <a href="https://www.linkedin.com/in/saul-de-azev%C3%AAdo-souza-77b45020b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saul de A. Souza-blue?style=flat-square&logo=linkedin"></a>
 
