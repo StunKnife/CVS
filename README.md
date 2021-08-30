@@ -1,5 +1,4 @@
 <h2> Oi, eu sou Saul! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 ![github](https://user-images.githubusercontent.com/87357756/131294152-32727589-f139-40ed-9cb2-7c840755e654.png)
 <p><em>Doutor em Estatística na <a href="https://www.ufpe.br/">Universidade Federal de Pernambuco</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a href="https://www.instagram.com/azevedo_assessoria_estatistica/"> azevedo\_assessoria\_estatistica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -10,15 +9,6 @@
 
 
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/saul-de-azev%C3%AAdo-souza-77b45020b/"><img alt="LinkedIn" img align='right' src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
-<a href="azevedo_assessoria_estatistica@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-azevedo_assessoria_estatistica@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-</p>
 
 
 
