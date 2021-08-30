@@ -29,7 +29,16 @@
 
 <h3> 🤝🏻 Métodos e técnicas estatísticas</h3>
 
-
+- 🔭 Estatística descritiva</strong>
+- 🌱 Análise de Regressão</strong>
+- 🔍 Testes estatísticos: paramétricos e não paramétricos </strong>
+- 💬 Redes neurais </strong>
+- ⚡ Árvore de decisão
+- 🌱 Análise gráfica</strong>
+- 🔍 Análise de correlação</strong>
+- 💬 Análise de sobrevivência</strong>
+- ⚡ Modelos lineares generalizados
+- 🌱 Análise de clusterAnálise fatorial</strong>
 
 <br><br>
 
