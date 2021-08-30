@@ -12,7 +12,7 @@
 <br>
 <p align="center">
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/StunKnife)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/StunKnife)< src="https://img.shields.io/badge/Instagram-Azevêdo Assessoria Estatística-black?style=flat-square&logo=instagram"></a>
 
 <a href="https://www.linkedin.com/in/saul-de-azev%C3%AAdo-souza-77b45020b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Saul de A. Souza-blue?style=flat-square&logo=linkedin"></a>
 
