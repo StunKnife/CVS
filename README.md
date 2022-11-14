@@ -43,13 +43,7 @@ Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a hre
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Um pouco sobre mim...  
-
 <br><br>
-
-<div align="center">
-<img src="https://github.com/StunKnife/CVS/files/9999104/Curriculo_saul_dnc1" width="700px" />
-</div>
-
 ![(1-3) Curriculo_saul_dnc.jpg](https://github.com/StunKnife/CVS/blob/main/(1-3)%20Curriculo_saul_dnc.jpg)
 ![(2-3) Curriculo_saul_dnc.jpg](https://github.com/StunKnife/CVS/blob/main/(2-3)%20Curriculo_saul_dnc.jpg)
 ![(3-3) Curriculo_saul_dnc.jpg](https://github.com/StunKnife/CVS/blob/main/(3-3)%20Curriculo_saul_dnc.jpg)
