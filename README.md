@@ -63,7 +63,7 @@ Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a hre
 </div>
 
 ![(1-3) Curriculo_saul_dnc.jpg](https://github.com/StunKnife/CVS/blob/main/(1-3)%20Curriculo_saul_dnc.jpg)
-![(2-3) Curriculo_saul_dnc.jpg](https://github.com/StunKnife/CVS/blob/main/(1-3)%20Curriculo_saul_dnc.jpg)
-![(3-3) Curriculo_saul_dnc.jpg](https://github.com/StunKnife/CVS/blob/main/(1-3)%20Curriculo_saul_dnc.jpg)
+![(2-3) Curriculo_saul_dnc.jpg](https://github.com/StunKnife/CVS/blob/main/(2-3)%20Curriculo_saul_dnc.jpg)
+![(3-3) Curriculo_saul_dnc.jpg](https://github.com/StunKnife/CVS/blob/main/(3-3)%20Curriculo_saul_dnc.jpg)
 
 
