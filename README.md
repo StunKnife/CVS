@@ -35,8 +35,8 @@ Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a hre
 - 🔭 Estatística descritiva
 - 🔍 Testes estatísticos: paramétricos e não paramétricos
 - ⚡ Análise de correlação
-- 🌱 Análise de Regressão
-- 💬 Machine Learning
+- 🌱 Análise de Regressão e Series Temporais
+- 💬 Machine Learning...
 
 <br>
 <hr>
