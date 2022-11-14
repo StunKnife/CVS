@@ -3,8 +3,6 @@
 
 <h2> Formação:
 <p><em>Sou Cientista de Dados em um empresa de tecnologia que usa inteligência humana para criar Inteligência Artificial
-<img align='right' src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230">
-
  
 <p><em>Doutor em Estatística - <a href="https://www.ufpe.br/">Universidade Federal de Pernambuco</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
  Mestre em Modelos de Decisão e Saúde - <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="24px"> </br>
@@ -32,29 +30,13 @@ Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a hre
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=StunKnife.StunKnife)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
-<h3> 🤝🏻 Métodos e técnicas estatísticas</h3>
+<h3> 🤝🏻 Serviços</h3>
 
 - 🔭 Estatística descritiva
-- 🌱 Análise de Regressão
 - 🔍 Testes estatísticos: paramétricos e não paramétricos
-- 💬 Redes neurais 
-- ⚡ Árvore de decisão
-- 🌱 Análise gráfica
-- 🔍 Análise de correlação
-- 💬 Análise de sobrevivência
-- ⚡ Modelos lineares generalizados
-- 🌱 Análise de cluster
-- 🔍 Análise fatorial
-
-
-<h3> 🤝🏻 Programas e ferramentas</h3>
-
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="20vw" /> R
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif?raw=1" width="20vw" /> SPSS
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" /> WEKA
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" /> Excel
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/happy.gif?raw=1" width="20vw" /> SQL
-- <img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/powerup.gif?raw=1" width="20vw" /> Github
+- ⚡ Análise de correlação
+- 🌱 Análise de Regressão
+- 💬 Machine Learning
 
 <br>
 <hr>
