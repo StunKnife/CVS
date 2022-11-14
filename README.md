@@ -1,9 +1,9 @@
 <h2> Oi, eu sou Saul! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230">
-<p><em>Doutor em Estatística na <a href="https://www.ufpe.br/">Universidade Federal de Pernambuco</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
- Mestre em Modelos de Decisão e Saúde na <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="24px"> </br>
-Estatístico formado pela <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30px">  </br>
-Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a href="https://www.instagram.com/azevedo_assessoria_estatistica/"> azevedo_assessoria_estatistica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Doutor em Estatística - <a href="https://www.ufpe.br/">Universidade Federal de Pernambuco</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+ Mestre em Modelos de Decisão e Saúde - <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="24px"> </br>
+Estatístico - <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30px">  </br>
+Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a href="https://www.instagram.com/saul_asouza/"> azevedo_assessoria_estatistica</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <h3> 🤝🏻 Conecte Comigo</h3>
 
