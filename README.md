@@ -1,7 +1,6 @@
 <h2> Oi, eu sou Saul! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="230">
 
-<h2> Formação:
 <p><em>Sou Cientista de Dados em um empresa de tecnologia que usa inteligência humana para criar Inteligência Artificial
  
 <p><em>Doutor em Estatística - <a href="https://www.ufpe.br/">Universidade Federal de Pernambuco</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
