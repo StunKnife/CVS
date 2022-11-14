@@ -71,3 +71,5 @@ Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a hre
 # Currículo para download<br>
 
 [CV.pdf](https://github.com/StunKnife/CVS/files/7074734/CV.pdf)<br>
+[Curriculo_saul_dnc.pdf](https://github.com/StunKnife/CVS/blob/main/Curriculo_saul_dnc.pdf)<br>
+
