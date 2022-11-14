@@ -17,7 +17,7 @@ Presto assessoria estatística para acadêmicos, pesquisadores e empresas <a hre
 
 <a href="https://www.instagram.com/azevedo_assessoria_estatistica/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Azevêdo Assessoria Estatística-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:azevedo_assessoria_estatistica@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-azevedo_assessoria_estatistica@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:saul.deasouza@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-saul.deasouza@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 </p>
